@@ -5,4 +5,5 @@
                                                       
                                                       Output:-
                                                       
-                                                    ![cal-c](https://github.com/user-attachments/assets/da05ed23-2fd1-4817-9f2e-7d75e69f80e9)
+                                                    
+  ![cal-c](https://github.com/user-attachments/assets/366a85cc-e512-4657-8b87-aa47edfdd572)
